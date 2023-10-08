@@ -1,11 +1,11 @@
 <img src="https://media.istockphoto.com/id/636526232/vector/software-engineering-banner-and-icons.jpg?s=170667a&w=0&k=20&c=l2guNn4wqKHIYoM0nLJyeYX8WMlrDYmStypGtTgVVTQ=" width="2000" height="400">
 <h1 align="center">Hi 👋, I'm Hacı İbrahim</h1>
-<h3 align="center">A passionate Software Engineer from Turkey</h3>
+<h3 align="center">A passionate Software(Data) Engineer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haciibrahim&label=Profile%20views&color=0e75b6&style=flat" alt="haciibrahim" /> </p>
 
-- 🌱 I’m currently learning **Azure DevOps, EntityFrameworkCore**
+- 🌱 I’m currently learning **Snowflake & dbt**
 
 - 💬 Ask me about **T-SQL, C#, Airflow, Python, .NetCore**
 
